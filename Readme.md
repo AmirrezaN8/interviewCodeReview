@@ -1,0 +1,2 @@
+#InterviewCodeReview
+A tool to help software/engineering teams with their software engineer talent acquisition process. Reviews best code practices from the extracted Github link from the selected resumes. Gives a one paragraph output in a dashboard about the best practices and bad qualities of how the applicants code
